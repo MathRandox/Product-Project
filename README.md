@@ -167,7 +167,6 @@ El flujo de datos reactivo permite:
 - Manejo eficiente de múltiples solicitudes simultáneas.
 
 ## Contribuciones
-## Contribuciones
 
 ¡Contribuciones son bienvenidas! Si deseas mejorar el proyecto, sigue estos pasos:
 
