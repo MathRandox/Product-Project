@@ -86,13 +86,13 @@ CREATE TABLE IF NOT EXISTS products (
 );
 ```
 - `data.sql` crea la tabla `products`:
-  ```sql
+```sql
   INSERT INTO products (name, price, stock) VALUES ('Piano Digital', 1200.00, 2);
   INSERT INTO products (name, price, stock) VALUES ('Violin Clasico', 750.00, 5);
   INSERT INTO products (name, price, stock) VALUES ('Guitarra Acustica', 500.00, 10);
   -- ... (continúa con todos los demás productos)
   INSERT INTO products (name, price, stock) VALUES ('Mango Kent 1kg', 16.00, 35);
-  ```
+```
 ## Endpoints principales
 
 | Método | URL                        | Descripción                       |
